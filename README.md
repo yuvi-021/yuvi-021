@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvi-021
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning web development 
+- 👀 I’m interested in frontend development and UI design. 
+- 🌱 I’m currently learning front-end development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kumaryuvrajgupta104@gmail.com 
 
